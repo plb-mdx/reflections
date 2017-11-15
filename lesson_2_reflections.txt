@@ -11,6 +11,7 @@ By adding only the changes relevant to a logical change to the staging area befo
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to make non-sequential changes: that is try out different features or add a variant
 
 How do the diagrams help you visualize the branch structure?
 
